@@ -1,5 +1,5 @@
 
-public class Main {
+public class Print {
     public static void main(String[] args) {
         System.out.print("\tHello and welcome!\n");
         System.out.println("Hello and welcome!");
@@ -11,7 +11,6 @@ public class Main {
         * is
         * a
         * comment
-        *
         *
          */
 
