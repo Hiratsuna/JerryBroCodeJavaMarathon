@@ -29,7 +29,7 @@ public class DataTypes {
         float a = 123.56f;
             System.out.println("My float number is: "+a);
         char symbol = '@';
-            System.out.println("My symbol is: "+symbol);
+        System.out.println("My symbol is: "+symbol);
         String name = "Jerry";
             System.out.println("Hello I am "+name);
     }
